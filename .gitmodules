@@ -1,0 +1,3 @@
+[submodule "sty"]
+	path = sty
+	url = git@github.com:scrow/rvahams-latex-stylesheets.git
